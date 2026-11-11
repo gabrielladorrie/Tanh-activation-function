@@ -82,7 +82,7 @@ The application provides a clear title, graph labels, legend, grid, input slider
 
 The following screenshot shows the developed Tanh Activation Function web application.
 
-![Tanh Activation Function Application](images/tanh_app.png)
+(https://github.com/gabrielladorrie/Tanh-activation-function/blob/main/tanh_app.png)
 
 **Figure 1: Tanh Activation Function Web Application**
 
